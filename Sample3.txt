@@ -1,0 +1,16 @@
+The history of the Internet originated in the efforts of scientists and engineers to build and interconnect computer networks.
+ The Internet Protocol Suite, the set of rules used to communicate between networks and devices on the Internet, arose from research and 
+ development in the United States and involved international collaboration, particularly with researchers in the United Kingdom and France.
+
+ Another catalyst in the formation of the Internet was the heating up of the Cold War. The Soviet Union's launch of the Sputnik satellite 
+spurred the U.S. Defense Department to consider ways information could still be disseminated even after a nuclear attack. 
+This eventually led to the formation of the ARPANET (Advanced Research Projects Agency Network), the network that ultimately evolved into what
+ we now know as the Internet. ARPANET was a great success but membership was limited to certain academic and research organizations who had contracts
+  with the Defense Department. In response to this, other networks were created to provide information sharing.
+
+Computer science was an emerging discipline in the late 1950s that began to consider time-sharing between computer users, and later, 
+the possibility of achieving this over wide area networks. J. C. R. Licklider developed the idea of a universal network at the Information
+ Processing Techniques Office (IPTO) of the United States Department of Defense (DoD) Advanced Research Projects Agency (ARPA). Independently,
+  Paul Baran at the RAND Corporation proposed a distributed network based on data in message blocks in the early 1960s, and Donald Davies conceived
+   of packet switching in 1965 at the National Physical Laboratory (NPL), proposing a national commercial data network in the United Kingdom.
+
