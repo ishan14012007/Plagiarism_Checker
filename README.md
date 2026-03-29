@@ -23,5 +23,5 @@ View the similarity results and feedback
 # Instructions for testing 
 The tool can compare any text-based files (not just .txt)
 Supported formats: .txt, .py, .java, .cpp, .js, .html, .css, .md, etc.
-Any file containing readable text content
-for testing 3 sample files are given
+Any file containing readable text content.
+For testing 3 sample files are given
